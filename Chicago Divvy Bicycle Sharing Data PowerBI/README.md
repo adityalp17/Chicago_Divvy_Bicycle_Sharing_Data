@@ -1,4 +1,4 @@
-# Chicago Divvy Bike Share Analysis — Power BI
+# Chicago Divvy Bike Share Analysis: Power BI
 
 An interactive Power BI dashboard analyzing ride patterns, station usage, rider demographics, and weather impact for Chicago's Divvy bike-share program.
 
@@ -73,6 +73,7 @@ git clone https://github.com/<your-username>/Chicago-Divvy-Bikeshare-PowerBI.git
 ## Author
 
 **Aditya Sunil Patil**
+
 adityapatillp@gmail.com
 
 ---
