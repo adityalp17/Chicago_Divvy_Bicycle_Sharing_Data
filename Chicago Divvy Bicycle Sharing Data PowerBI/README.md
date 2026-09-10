@@ -64,7 +64,7 @@ git clone https://github.com/<your-username>/Chicago-Divvy-Bikeshare-PowerBI.git
 
 ## Key Insights
 
-> ✏️ *Replace this section with the actual takeaways from your analysis* — for example:
+> ✏️ *Replace this section with the actual takeaways from your analysis* for example:
 - Ridership peaks during the evening commute (5–6 PM) on weekdays and midday on weekends.
 - The top 10 stations account for a disproportionate share of total trips, concentrated around downtown/lakefront areas.
 - Members take shorter, more frequent trips than casual riders, who tend to ride longer on weekends.
@@ -72,8 +72,8 @@ git clone https://github.com/<your-username>/Chicago-Divvy-Bikeshare-PowerBI.git
 
 ## Author
 
-**[Your Name]**
-[LinkedIn](#) · [Portfolio](#) · [Email](#)
+**Aditya Sunil Patil**
+adityapatillp@gmail.com
 
 ---
 
